@@ -1,0 +1,65 @@
+# Theory: Comments
+Kotlin 프로그램에서 '주석'을 사용할 수 있습니다. 주석이란, 컴파일러가 컴파일하지 않고 무시하는 특수한 텍스트입니다. 주석을 이용해서 컴파일 단계에서 코드를 제외(비활성화)할 수도 있고, 코드를 자신이나 다른 개발자에게 설명하는 것도 가능합니다. 이 과정을 통해 우리는 코드가 작동하는 방법과 이유를 설명하기 위해 이론 및 실습 레슨에서 주석을 사용해보도록 하겠습니다.
+
+Kotlin은 세 가지 종류의 주석을 지원합니다.
+
+## End-of-line comments
+컴파일러는 `//`부터 동일한 행 끝까지 텍스트를 무시합니다.
+
+```kotlin
+fun main(args: Array<String>) {
+    // The line below will be ignored
+    // println("Hello, World")
+
+    // This prints the string "Hello, Kotlin
+    println("Hello, Kotlin") // Here can be any comment
+}
+```
+위의 예제에서 // 뒤의 텍스트는 컴파일러에서 무시됩니다.
+
+## Multi-line comments
+컴파일러는 / *와 * / 사이에 있는 텍스트를 무시합니다. 여러 줄을 주석처리할때 유용 합니다. 한 줄 주석으로도 사용할 수 있습니다.
+```kotlin
+fun main(args: Array<String>) {
+    /* This is a single-line comment */
+    /*  This is an example of
+        a multi-line comment */
+
+    /* All lines below will be ignored
+        println("Hello")
+        println("World")
+    */
+}
+```
+다른 주석 내부에 또 다른 주석을 사용할 수도 있습니다.
+
+```kotlin
+fun main(args: Array<String>) {
+    /*
+    System.out.println("Hello") // print "Hello" 
+    System.out.println("Kotlin")  // print "Kotlin"
+    */
+}
+```
+위 코드에서 / * ... * /사이에 있는 코드들은 컴파일러에서 무시됩니다.
+
+ ## Documentation comments (doc comments)
+컴파일러는 여러 줄의 주석을 무시하는 것처럼 / **에서 * /까지의 텍스트를 무시합니다.
+
+이런 종류의 주석은 특별한 도구를 사용해 소스 코드에 대한 문서를 자동으로 생성할때 사용됩니다. 일반적으로 이러한 주석은 일부 프로그램 요소의 선언부 위에 위치합니다.  또, 이런 경우에 @param, @return 등의 라벨이 사용되기도 합니다.
+
+아래 예를 참조하십시오.
+```kotlin
+fun main(args: Array<String>) {
+/**
+ * The main method accepts string arguments from outside
+ *
+ * @param args from the command line
+ */
+fun main(args: Array<String>) {
+    // do nothing
+}
+```
+앞으로 과정에 더 다루게 되니, 문서용 주석을 다 이해하지 못해도 괜찮습니다. 
+
+> ※주석이 많을 수록 코드가 더 명확해 지는것은 아닙니다. 코드는 변경 될 수 있으며 주석은 제 때 업데이트 되지 않을 수도 있습니다. 주석의 수를 줄이려면 문서를 자동화해주는 코드를 작성애야 하고 이는 초보자에게는 어려울 수 있습니다. 이 과정을 통해 배울 수 있습니다.

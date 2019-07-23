@@ -10,4 +10,5 @@
 [4.Coding style conventions](https://github.com/himj131/kotlin/blob/master/4.Coding%20style%20conventions.md)   
 [5.Naming variables](https://github.com/himj131/kotlin/blob/master/5.Naming%20variables.md)  
 [6.Comments](https://github.com/himj131/kotlin/blob/master/6.Comments.md)  
-[7.Strings](https://github.com/himj131/kotlin/blob/master/7.Strings.md)
+[7.Strings](https://github.com/himj131/kotlin/blob/master/7.Strings.md)  
+[8.String templates](https://github.com/himj131/kotlin/blob/master/8.String%20templates.md)

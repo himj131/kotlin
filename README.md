@@ -11,4 +11,8 @@
 [5.Naming variables](https://github.com/himj131/kotlin/blob/master/5.Naming%20variables.md)  
 [6.Comments](https://github.com/himj131/kotlin/blob/master/6.Comments.md)  
 [7.Strings](https://github.com/himj131/kotlin/blob/master/7.Strings.md)  
-[8.String templates](https://github.com/himj131/kotlin/blob/master/8.String%20templates.md)
+[8.String templates](https://github.com/himj131/kotlin/blob/master/8.String%20templates.md)  
+[9.Objects](https://github.com/himj131/kotlin/blob/master/9.Objects.md)  
+[10.Ranges](https://github.com/himj131/kotlin/blob/master/10.Ranges.md)  
+[11.Arrays](https://github.com/himj131/kotlin/blob/master/11.Arrays.md)  
+

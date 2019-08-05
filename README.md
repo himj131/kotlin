@@ -16,5 +16,9 @@
 [10.Ranges](https://github.com/himj131/kotlin/blob/master/10.Ranges.md)  
 [11.Arrays](https://github.com/himj131/kotlin/blob/master/11.Arrays.md)  
 [12.Values and variables](https://github.com/himj131/kotlin/blob/master/12.Values%20and%20variables.md)  
-[13.Data types](https://github.com/himj131/kotlin/blob/master/13.Data%20types.md)  
+[13.Data types](https://github.com/himj131/kotlin/blob/master/13.Data%20types.md)   
+[14.The classification of basic types](https://github.com/himj131/kotlin/blob/master/14.The%20classification%20of%20basic%20types.md)   
+[15.Type conversion](https://github.com/himj131/kotlin/blob/master/15.Type%20conversion.md)   
+  
+    
 

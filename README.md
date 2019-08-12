@@ -20,7 +20,9 @@
 [14.The classification of basic types](https://github.com/himj131/kotlin/blob/master/14.The%20classification%20of%20basic%20types.md)   
 [15.Type conversion](https://github.com/himj131/kotlin/blob/master/15.Type%20conversion.md)   
 [16.Standard output](https://github.com/himj131/kotlin/blob/master/16.Standard%20output.md)  
-[17.Standard input](https://github.com/himj131/kotlin/blob/master/17.Standard%20input.md)   
+[17.Standard input](https://github.com/himj131/kotlin/blob/master/17.Standard%20input.md)  
+[18.Arithmetic operations](https://github.com/himj131/kotlin/blob/master/18.Arithmetic%20operations.md)  
+[19.Boolean and logical operations](https://github.com/himj131/kotlin/blob/master/19.Boolean%20and%20logical%20operations.md)  
   
     
 

@@ -23,6 +23,8 @@
 [17.Standard input](https://github.com/himj131/kotlin/blob/master/17.Standard%20input.md)  
 [18.Arithmetic operations](https://github.com/himj131/kotlin/blob/master/18.Arithmetic%20operations.md)  
 [19.Boolean and logical operations](https://github.com/himj131/kotlin/blob/master/19.Boolean%20and%20logical%20operations.md)  
+[20.Integers in action](https://github.com/himj131/kotlin/blob/master/20.Integers%20in%20action.md)  
+[21.Relational operators](https://github.com/himj131/kotlin/blob/master/21.Relational%20operators.md)  
   
     
 

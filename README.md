@@ -25,6 +25,8 @@
 [19.Boolean and logical operations](https://github.com/himj131/kotlin/blob/master/19.Boolean%20and%20logical%20operations.md)  
 [20.Integers in action](https://github.com/himj131/kotlin/blob/master/20.Integers%20in%20action.md)  
 [21.Relational operators](https://github.com/himj131/kotlin/blob/master/21.Relational%20operators.md)  
+[22.Characters](https://github.com/himj131/kotlin/blob/master/22.Characters.md)  
+[23.Floating-point types](https://github.com/himj131/kotlin/blob/master/23.Floating-point%20types.md)  
   
     
 

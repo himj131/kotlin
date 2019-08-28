@@ -29,5 +29,6 @@
 [23.Floating-point types](https://github.com/himj131/kotlin/blob/master/23.Floating-point%20types.md)  
 [24.The Math library](https://github.com/himj131/kotlin/blob/master/24.The%20Math%20library.md)    
 [25.Reading files](https://github.com/himj131/kotlin/blob/master/25.Reading%20files.md)    
-    
+[26.Invoking functions](https://github.com/himj131/kotlin/blob/master/26.Invoking%20functions.md)    
+[27.Declaring functions](https://github.com/himj131/kotlin/blob/master/27.Declaring%20functions.md)    
 

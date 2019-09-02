@@ -31,4 +31,6 @@
 [25.Reading files](https://github.com/himj131/kotlin/blob/master/25.Reading%20files.md)    
 [26.Invoking functions](https://github.com/himj131/kotlin/blob/master/26.Invoking%20functions.md)    
 [27.Declaring functions](https://github.com/himj131/kotlin/blob/master/27.Declaring%20functions.md)    
+[28.Default arguments](https://github.com/himj131/kotlin/blob/master/28.Default%20arguments.md)    
+[29.Named arguments](https://github.com/himj131/kotlin/blob/master/29.Named%20arguments.md)    
 

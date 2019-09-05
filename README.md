@@ -33,4 +33,6 @@
 [27.Declaring functions](https://github.com/himj131/kotlin/blob/master/27.Declaring%20functions.md)    
 [28.Default arguments](https://github.com/himj131/kotlin/blob/master/28.Default%20arguments.md)    
 [29.Named arguments](https://github.com/himj131/kotlin/blob/master/29.Named%20arguments.md)    
+[30.Functions as objects](https://github.com/himj131/kotlin/blob/master/30.Functions%20as%20objects.md)    
+[31.Lambda expressions](https://github.com/himj131/kotlin/blob/master/31.Lambda%20expressions.md)    
 

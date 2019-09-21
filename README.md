@@ -34,5 +34,7 @@
 [28.Default arguments](https://github.com/himj131/kotlin/blob/master/28.Default%20arguments.md)    
 [29.Named arguments](https://github.com/himj131/kotlin/blob/master/29.Named%20arguments.md)    
 [30.Functions as objects](https://github.com/himj131/kotlin/blob/master/30.Functions%20as%20objects.md)    
-[31.Lambda expressions](https://github.com/himj131/kotlin/blob/master/31.Lambda%20expressions.md)    
+[31.Lambda expressions](https://github.com/himj131/kotlin/blob/master/31.Lambda%20expressions.md)   
+[32.If expressions](https://github.com/himj131/kotlin/blob/master/32.If%20expression.md)   
+[33.When expressions](https://github.com/himj131/kotlin/blob/master/33.When%20expression.md)   
 
